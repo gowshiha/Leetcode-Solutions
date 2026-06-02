@@ -17,6 +17,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/gowshiha/Leetcode-Solutions/tree/master/2235-add-two-integers) |
+| [3765-complete-prime-number](https://github.com/gowshiha/Leetcode-Solutions/tree/master/3765-complete-prime-number) |
 ## String
 |  |
 | ------- |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/gowshiha/Leetcode-Solutions/tree/master/3765-complete-prime-number) |
+## Number Theory
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/gowshiha/Leetcode-Solutions/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
