@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -37,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Counting
