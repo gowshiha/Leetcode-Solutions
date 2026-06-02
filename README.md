@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -28,4 +30,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
