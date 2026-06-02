@@ -9,6 +9,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
