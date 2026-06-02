@@ -32,10 +32,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Array
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1929-concatenation-of-array](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
 | ------- |
