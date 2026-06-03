@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Counting
@@ -72,4 +73,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
