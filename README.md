@@ -16,6 +16,7 @@
 | [0231-power-of-two](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -58,4 +60,12 @@
 |  |
 | ------- |
 | [3765-complete-prime-number](https://github.com/gowshiha/Leetcode-Solutions/tree/master/3765-complete-prime-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
