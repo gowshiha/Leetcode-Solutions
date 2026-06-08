@@ -38,6 +38,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -88,4 +89,8 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
