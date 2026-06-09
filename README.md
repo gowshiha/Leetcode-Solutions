@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -88,9 +89,11 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
