@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -97,6 +98,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
