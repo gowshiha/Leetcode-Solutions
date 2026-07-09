@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -64,6 +65,7 @@
 | [0014-longest-common-prefix](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/gowshiha/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -106,6 +108,7 @@
 | [0141-linked-list-cycle](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
@@ -139,4 +143,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/gowshiha/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
